@@ -1,5 +1,5 @@
 # AutoAnalyst
-
+![](autoanalyst_banner.png)
 A working implementation of the **LLM/Agent-as-Data-Analyst** pipeline you sketched:
 
 ```
